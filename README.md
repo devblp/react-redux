@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/react-redux-auth.git
+    git clone https://github.com/devblp/react-redux-auth.git
     ```
 2. **Navigate to the project directory:**
     ```sh
