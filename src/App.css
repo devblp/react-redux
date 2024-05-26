@@ -1,0 +1,23 @@
+.pg-mine {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20%;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.inputs #input-name , #input-password {
+    padding: 10px;
+}
+
+.log {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
